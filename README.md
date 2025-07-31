@@ -36,10 +36,13 @@ Aspiring Developer | Beginner Coder | Problem Solver
 
 ---
 
-##  Folder Structure```
-temperature_converter/|--temp_converter.py #
-Main Python GUI File |--screenshot.jpg.png #App
-screenshot image |--README.md #This
-README file ```
+##  Folder Structure
+```
+temperature_converter/
+├── temp_converter.py         # Main Python GUI file
+├── screenshot.jpg            # Screenshot of the app
+└── README.md                 # Project description
+```
+
 
 
